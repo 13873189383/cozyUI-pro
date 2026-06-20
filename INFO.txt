@@ -1,0 +1,17 @@
+
+
+
+   名称:CozyUI-pro
+   作者: rencai2912
+
+● 作品基于：
+○ CozyUI+
+https://github.com/Fogg05/CozyUI-Plus
+○ smiley-sans
+https://github.com/atelier-anchor/smiley-sans?tab=OFL-1.1-1-ov-file
+
+● 修改处
+字体：修改了字体[smiley-sans]
+
+
+
